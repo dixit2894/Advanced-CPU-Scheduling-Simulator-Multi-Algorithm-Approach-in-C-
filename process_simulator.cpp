@@ -1,7 +1,3 @@
-//Thomas Zaorski
-//RIN: 660747712
-//EMAIL: zaorst@rpi.edu
-
 #include <iostream>
 #include <vector>
 #include <stdio.h>
